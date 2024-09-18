@@ -27,7 +27,7 @@ It fetches data from HLL CRCON API and updates a Discord channel with the top 20
 
    ```bash
    git clone https://github.com/s1lence-aut/hll-top-garrisons.git
-   cd discord-bot
+   cd hll-top-garrisons
 
 2. Generate a .env File
 EXAMPLE:
