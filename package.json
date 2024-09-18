@@ -1,0 +1,18 @@
+{
+  "name": "hll-top-garrisons",
+  "version": "1.0.0",
+  "description": "A Discord bot that tracks and ranks the top officers in garrison building.",
+  "type": "module",
+  "main": "main.mjs",
+  "scripts": {
+    "start": "node main.mjs"
+  },
+  "dependencies": {
+    "discord.js": "^14.8.0",
+    "node-fetch": "^3.3.0",
+    "dotenv": "^16.0.3"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
