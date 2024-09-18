@@ -10,6 +10,7 @@ It fetches data from HLL CRCON API and updates a Discord channel with the top 20
 - Track changes in player support and roles
 - Rank and display the top 20 officers based on support points
 - Regularly update a Discord channel with the latest rankings
+- Currently only for CRCON V9 API available
 
 ## Setup
 
