@@ -3,6 +3,7 @@
 This Discord bot tracks and ranks the top officers in garrison building based on their support points in HLL.
 It fetches data from HLL CRCON API and updates a Discord channel with the top 20 players' rankings.
 
+
 ## Features
 
 - Fetch player data from HLL CRCON API
@@ -35,3 +36,7 @@ EXAMPLE:
    DISCORD_CHANNEL_ID=your_discord_channel_id
    RCON_API_BASE_URL=your_api_base_url
    RCON_API_TOKEN=your_api_token
+   
+### File Format
+
+This project uses ES Modules and is structured with the `.mjs` file extension.
