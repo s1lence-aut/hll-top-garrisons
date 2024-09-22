@@ -1,0 +1,6 @@
+services:
+  hll_top_garrisons:
+    build: .
+    env_file: .env
+    restart: unless-stopped
+    command: node main.mjs
